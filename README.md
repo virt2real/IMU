@@ -8,3 +8,5 @@ ITG-3200 / ITG-3205
 BMA-180
 HMC-5883
 BMP-085
+
+Based on http://gitorious.org/freerunner-navigation-board
